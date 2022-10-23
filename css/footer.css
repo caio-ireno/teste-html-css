@@ -39,3 +39,9 @@ footer img {
     margin-top: 35px;
   }
 }
+
+@media (orientation: landscape) {
+  footer {
+    display: none;
+  }
+}

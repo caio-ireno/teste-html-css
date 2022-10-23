@@ -1,0 +1,40 @@
+.header {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  width: 100%;
+  height: 64px;
+  align-items: center;
+}
+
+.idioma-menu {
+  display: flex;
+  flex-wrap: wrap;
+  background-color: var(--cor-0);
+  align-items: center;
+  border-radius: 20px;
+  height: 34px;
+}
+
+.idioma-menu p {
+  font-size: 12px;
+  border-radius: 25px;
+  margin-left: 10px;
+}
+
+.img-brasil {
+  margin-right: 10px;
+  margin-left: 10px;
+}
+
+.img-icon {
+  margin-right: 10px;
+}
+
+.menu-icon {
+  width: 24px;
+  height: 4px;
+  background-color: white;
+  margin: 6px 0;
+  border-radius: 10px;
+}

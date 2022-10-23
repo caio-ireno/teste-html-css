@@ -1,0 +1,12 @@
+.titulo {
+  background-color: var(--cor-5);
+  color: var(--cor-2);
+  height: 50px;
+  width: 100%;
+  display: flex;
+  align-items: center;
+}
+.titulo h1 {
+  font-size: 16px;
+  margin-left: 15px;
+}

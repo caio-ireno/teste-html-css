@@ -1,0 +1,17 @@
+.social-midia {
+  display: flex;
+  flex-wrap: wrap;
+  margin-top: 45px;
+  justify-content: center;
+  align-items: center;
+}
+
+.social-midia a {
+  margin-right: 33px;
+}
+
+@media (max-width: 320px) {
+  .social-midia a {
+    margin-right: 15px;
+  }
+}

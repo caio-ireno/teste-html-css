@@ -1,0 +1,41 @@
+footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 380px;
+  height: 64px;
+}
+
+footer img {
+  padding-right: 15px;
+}
+
+@media (max-width: 1024px) {
+  footer {
+    margin-top: 135px;
+  }
+}
+
+@media (max-width: 768px) {
+  footer {
+    margin-top: 263px;
+  }
+}
+
+@media (max-width: 420px) {
+  footer {
+    margin-top: 70px;
+  }
+}
+
+@media (max-width: 360px) {
+  footer {
+    margin-top: 70px;
+  }
+}
+
+@media (max-width: 320px) {
+  footer {
+    margin-top: 35px;
+  }
+}

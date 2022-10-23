@@ -1,0 +1,25 @@
+.contato-body {
+  background-color: var(--cor-0);
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  padding-left: 15px;
+  margin-top: 15px;
+}
+
+.contato-body span {
+  width: 100%;
+  height: 1px;
+  background-color: var(--cor-4);
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
+.contato-info {
+  display: flex;
+}
+
+.contato-info p {
+  font-size: 14px;
+  margin-left: 16px;
+}
